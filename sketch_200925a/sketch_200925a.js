@@ -1,5 +1,5 @@
 function setup() {
-hello
+hello hello
 }
 
 
